@@ -1,0 +1,2 @@
+$a = new-object -comobject wscript.shell 
+$a.popup("Auto closing Message box....",5,"Information",0+64)
